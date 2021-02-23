@@ -4,6 +4,6 @@
 
 ### To build a reusable google clone for future projects
 
-### Retire Search Results with googles api
+### Fetch Search Results with Googles api
 
 ### Display the results in a mirror copy of googles method
