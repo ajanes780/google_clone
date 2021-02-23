@@ -6,4 +6,8 @@
 
 ### Fetch Search Results with Googles api
 
-### Display the results in a mirror copy of googles method
+### Display the results in a mirror copy of googles mark up
+
+This project provided practice rendering react elements,
+using react router and managing state with createContext,
+useContext, useReducer Hooks
