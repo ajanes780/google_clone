@@ -10,5 +10,9 @@ This project provided practice rendering react elements,
 using react router and managing state with createContext,
 useContext, useReducer Hooks
 
+*** Still In development***
+
+To Do Complete jsx mark up of API json data 
+
 
 <img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="900" height="600">
