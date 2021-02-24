@@ -13,4 +13,4 @@ using react router and managing state with createContext,
 useContext, useReducer Hooks
 
 
-<img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="500" height="600">
+<img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="900" height="600">
