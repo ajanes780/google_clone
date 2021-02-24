@@ -12,7 +12,7 @@ useContext, useReducer Hooks
 
 *** Still In development***
 
-[] Complete jsx mark up of API json data 
+[ ] Complete jsx mark up of API json data 
 
 
 <img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="900" height="600">
