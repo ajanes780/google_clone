@@ -12,4 +12,5 @@ This project provided practice rendering react elements,
 using react router and managing state with createContext,
 useContext, useReducer Hooks
 
-url("https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true")
+
+<img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="500" height="600">
