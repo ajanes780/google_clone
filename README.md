@@ -8,8 +8,8 @@
 
 ### Display the results in a mirror copy of googles mark up
 
-####This project provided practice rendering react elements,
-####using react router and managing state with createContext,
-####useContext, useReducer Hooks
+This project provided practice rendering react elements,
+using react router and managing state with createContext,
+useContext, useReducer Hooks
 
-url("./pictures/Screenshoot.png")
+url("https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true")
