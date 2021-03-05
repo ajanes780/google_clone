@@ -20,4 +20,4 @@ Deployed site to Netlify
 
 
 This project was inspired by this tutorial 
-<a href="https://betterprogramming.pub/building-a-google-clone-part-1-setting-up-react-fb9c22b9662c>Here</a>
+<a href="https://betterprogramming.pub/building-a-google-clone-part-1-setting-up-react-fb9c22b9662c">Here</a>
