@@ -15,3 +15,4 @@ Deployed site to Netlify
 
 <a href="https://604177d6fb04af1c7678b767--goofy-mahavira-5340c7.netlify.app/">Test Out My Google Clone</a>
 <img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="900" height="600">
+<img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot%20from%202021-03-04%2017-30-42.png?raw=true" width="900" height="600">
