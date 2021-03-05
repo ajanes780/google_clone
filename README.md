@@ -16,3 +16,8 @@ Deployed site to Netlify
 <a href="https://mygoogleclone.netlify.app/">Test Out My Google Clone</a>
 <img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot.png?raw=true" width="900" height="600">
 <img src="https://github.com/ajanes780/google_clone/blob/main/pictures/Screenshot%20from%202021-03-04%2017-30-42.png?raw=true" width="900" height="600">
+
+
+
+This project was inspired by this tutorial 
+<a href="https://betterprogramming.pub/building-a-google-clone-part-1-setting-up-react-fb9c22b9662c>Here</a>
